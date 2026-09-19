@@ -5,3 +5,4 @@ __pycache__/
 data/extract/
 data/transform/
 *.png
+test_schema_details.txt
